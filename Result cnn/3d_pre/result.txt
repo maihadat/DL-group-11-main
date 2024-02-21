@@ -1,0 +1,15 @@
+Learning rate: 0.0004
+
+Performance:
+Classification Report
+              precision    recall  f1-score   support
+
+         0.0       0.61      0.72      0.66      2133
+         1.0       0.31      0.27      0.29      1427
+         2.0       0.84      0.80      0.82      4873
+
+    accuracy                           0.69      8433
+   macro avg       0.59      0.60      0.59      8433
+weighted avg       0.69      0.69      0.69      8433
+
+Accuracy: 0.6931103996205383
